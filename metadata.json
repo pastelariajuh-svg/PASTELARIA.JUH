@@ -1,0 +1,8 @@
+{
+  "name": "Pastelaria Juh - Sistema de Comandas, KDS & POS-58",
+  "description": "Sistema completo para pastelaria com cardápio digital, comanda aberta em tempo real, KDS da cozinha com alerta sonoro, caixa PDV integrado com Pix e cartão, controle de estoque com fichas técnicas, relatórios financeiros e suporte à impressora térmica POS-58 (58mm ESC/POS).",
+  "requestFramePermissions": [
+    "bluetooth"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
